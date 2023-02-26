@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# misc
+.env
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebug.log
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+bin/
+Bin/
+obj/
+Obj/
+
+# testing
+/coverage
+
+# production
+/template
+
+# Jetbrains ide (Webstorm Rider)
+.idea
